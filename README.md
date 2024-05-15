@@ -1,6 +1,6 @@
-
-<h1 align="center">Hi 👋, I'm Mahesh Singha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+![logo](https://github.com/Mahesh7007/mahesh7007/blob/main/Illusion%20GIF%20%201600x800%20---%20http___www_math.harvard.edu_~knill_360m_1002.gif%20---)
+<h1 align="center">Hi there👋, I'm Mahesh Singha</h1>
+<!--h3 align="center">A passionate frontend developer from India</h3-->
 <img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif">
 <img align="right" alt="Coding" width="385" src="https://i.pinimg.com/originals/6e/a5/fd/6ea5fd598477f4eb62253fc3004039ca.gif">
 
