@@ -1,5 +1,7 @@
-![logo](https://github.com/Mahesh7007/mahesh7007/blob/main/Illusion%20GIF%20%201600x800%20---%20http___www_math.harvard.edu_~knill_360m_1002.gif%20---)
-<h1 align="center">Hi there👋, I'm Mahesh Singha</h1>
+<!--![logo](https://github.com/Mahesh7007/mahesh7007/blob/main/Illusion%20GIF%20%201600x800%20---%20http___www_math.harvard.edu_~knill_360m_1002.gif%20---)-->
+![logo](https://github.com/Mahesh7007/mahesh7007/blob/main/anime.gif)
+<h3 align="center">Hi👋, I'm Mahesh Singha, a dedicated and passionate computer science student. With a strong foundation in programming languages such as C++, Java, and Python, I enjoy solving complex problems and developing innovative software solutions. My coursework has equipped me with knowledge in algorithms, data structures, computer network and software engineering principles.</h3>
+<h4 align = "left">➡️ I have a keen interest in areas like artificial intelligence, machine learning, and cybersecurity. In addition to my academic pursuits, I'm working on several projects, including developing a web application for managing tasks and a machine learning model for predictions. I actively solving coding problems, which have honed my problem-solving skills and ability to work under pressure.</h4>
 <!--h3 align="center">A passionate frontend developer from India</h3-->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif">
 <!--img align="right" alt="Coding" width="385" src="https://i.pinimg.com/originals/6e/a5/fd/6ea5fd598477f4eb62253fc3004039ca.gif"-->
