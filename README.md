@@ -1,12 +1,12 @@
 ![logo](https://github.com/Mahesh7007/mahesh7007/blob/main/Illusion%20GIF%20%201600x800%20---%20http___www_math.harvard.edu_~knill_360m_1002.gif%20---)
 <h1 align="center">Hi there👋, I'm Mahesh Singha</h1>
 <!--h3 align="center">A passionate frontend developer from India</h3-->
-<img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif">
-<img align="right" alt="Coding" width="385" src="https://i.pinimg.com/originals/6e/a5/fd/6ea5fd598477f4eb62253fc3004039ca.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif">
+<!--img align="right" alt="Coding" width="385" src="https://i.pinimg.com/originals/6e/a5/fd/6ea5fd598477f4eb62253fc3004039ca.gif"-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahesh7007&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh7007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahesh7007" alt="mahesh7007" /></a> </p>
+<!--p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahesh7007" alt="mahesh7007" /></a> </p-->
 
 <p align="left"> <a href="https://twitter.com/@maheshsingha19" target="blank"><img src="https://img.shields.io/twitter/follow/@maheshsingha19?logo=twitter&style=for-the-badge" alt="@maheshsingha19" /></a> </p>
 
